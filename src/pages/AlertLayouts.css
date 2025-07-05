@@ -1,0 +1,35 @@
+.alert-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.alert-list-item {
+  padding: 12px 18px;
+  margin-bottom: 8px;
+  border-radius: 6px;
+  background: #e0f7ff;
+  border-left: 5px solid #00b3ffaa;
+  color: #213547;
+}
+
+.alert-list-empty {
+  color: #888;
+  padding: 18px;
+  text-align: center;
+}
+
+.alert-layouts-fullscreen {
+  position: fixed;
+  inset: 0;
+  background: #f8fafc;
+  z-index: 999;
+  overflow: auto;
+  padding: 32px 0;
+}
+
+.alert-layouts-table {
+  display: flex;
+  gap: 32px;
+  padding: 32px 0;
+}
