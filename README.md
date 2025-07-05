@@ -1,2 +1,2 @@
-# yaku-awari
-yaku-awari system frontend
+# Antvance frontend
+This is a frontend made with ReactJS
